@@ -5,6 +5,12 @@ A python script which converts an input video its ASCII equivalent
 ASCII(American Standard Code for Information Interchange) is a common encoding format used for representing strings and text data in computers. Our goal is to use ASCII for videos and images instead!
 
 An example of what we plan to do, frame by frame: 
+<table>
+  <tr>
+    <td><img src="frame362.jpg" width=300 height=500></td>
+    <td><img src="ASCIIframe362.jpg" width=300 height=500></td>
+  </tr>
+ </table>
 
 ## Running the project
 To run the project, follow the given steps:

@@ -30,7 +30,7 @@ Voila! Your ASCIIfyed video is now ready and you can find it in the directory of
 
 #### To ASCIIfy images
 * In line 34 of the `ASCIIfyImages.py` file, put in the path of your desired image as a parameter.
-* In line 92 of the `ASCIIfyImages.py` file, change the first parameter to what you want to name the output video file. It will be in the `.avi` format.
-* Run the `ASCIIfyVideo.py` file.
+* In line 92 of the `ASCIIfyImages.py` file, type in the name you want to give to the output image file.
+* Run the `ASCIIfyImages.py` file.
 
 Voila! Your ASCIIfyed image is now ready and you can find it in the directory of your cloned project.

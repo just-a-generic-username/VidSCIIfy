@@ -1,5 +1,5 @@
 # VidSCIIfy
-A python script which converts an input video its ASCII equivalent
+A python script which converts an input video to its ASCII equivalent
 
 ## Preview
 ASCII(American Standard Code for Information Interchange) is a common encoding format used for representing strings and text data in computers. Our goal is to use ASCII for videos and images instead!

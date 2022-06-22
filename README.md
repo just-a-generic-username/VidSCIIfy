@@ -22,14 +22,14 @@ Install the required packages:
 pip install requirements.txt
 ```
 #### To ASCIIfy videos
-* In line 35 of the `ASCIIfyVideo.py` file, put in the path of your desired video as a parameter. It should be of the `.mp4` format.
+* In line 35 of the `ASCIIfyVideo.py` file, put in the path of your desired input video as a parameter. It should be of the `.mp4` format.
 * In line 42 of the `ASCIIfyVideo.py` file, change the first parameter to what you want to name the output video file. It will be in the `.avi` format.
 * Run the `ASCIIfyVideo.py` file.
 
 Voila! Your ASCIIfyed video is now ready and you can find it in the directory of your cloned project.
 
 #### To ASCIIfy images
-* In line 34 of the `ASCIIfyImages.py` file, put in the path of your desired image as a parameter.
+* In line 34 of the `ASCIIfyImages.py` file, put in the path of your desired input image as a parameter.
 * In line 92 of the `ASCIIfyImages.py` file, type in the name you want to give to the output image file.
 * Run the `ASCIIfyImages.py` file.
 
